@@ -10,12 +10,18 @@ The aim of this repository is to:
 	•	Provide reproducible code and data for further benchmarking.
 
  📁 Repository Structure
-├── sandbox.ipynb                # Notebook for running and analyzing sandbox evaluations \n
-├── sandbox-LLM_testing.ipynb    # LLM-specific testing notebook with visual outputs \n
-├── deepseek_llm_results.xlsx    # Evaluation scores for DeepSeek LLM \n
-├── sandbox_results.xlsx         # Aggregated results from sandbox evaluations \n
-├── sandbox-LLM.png              # Average metrics bar chart \n
-├── sandbox-LLM-2.png            # Scatter plots for score distribution \n
+├── sandbox.ipynb                # Notebook for running and analyzing sandbox evaluations 
+
+├── sandbox-LLM_testing.ipynb    # LLM-specific testing notebook with visual outputs 
+
+├── deepseek_llm_results.xlsx    # Evaluation scores for DeepSeek LLM 
+
+├── sandbox_results.xlsx         # Aggregated results from sandbox evaluations 
+
+├── sandbox-LLM.png              # Average metrics bar chart 
+
+├── sandbox-LLM-2.png            # Scatter plots for score distribution 
+
 
 📈 Visual Insights
 	•	The bar chart represents average scores across 100 test cases.
